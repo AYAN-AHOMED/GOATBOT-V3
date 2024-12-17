@@ -1,30 +1,12 @@
 {
-  "0": "U",
-  "1": "p",
-  "2": "d",
-  "3": "a",
-  "4": "t",
-  "5": "e",
-  "6": " ",
-  "7": "c",
-  "8": "o",
-  "9": "n",
-  "10": "f",
-  "11": "i",
-  "12": "g",
-  "13": ".",
-  "14": "j",
-  "15": "s",
-  "16": "o",
-  "17": "n",
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "ayanbotbeluga@gmail.com",
+    "password": "ayan999p0999",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
     "userAgent": "Mozilla/5.0 (Linux; Android 12; M2102J20SG) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.0.0 Mobile Safari/537.36",
-    "intervalGetNewCookie": 1440,
+    "intervalGetNewCookie": 4320,
     "notes": "time the system automatically retrieves new cookies from email/password, unit is minute, if you set null, the system will not automatically retrieve new cookies, it saves you from having to manually change your cookie every time it expires. recommended set to 1440 (1day) or 4320 (3day).TO BE ABLE TO USE THIS FEATURE YOU NEED TO ENTER THE ACCOUNT PASSWORD ABOVE"
   },
   "antiInbox": false,
@@ -35,49 +17,40 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100072378825674"
+    "61551774501334",
+    "61569702293043",
+    ""
   ],
   "whiteListMode": {
     "enable": false,
-    "whiteListIds": [
-      "100072378825674"
-    ],
+    "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "➳ᴹᴿ᭄𝙹𝙸𝚂𝙰𝙽✭𝙱𝙾𝚃 𝙱𝙾𝚇_꧂",
+  "authorName": "MR.AYAN",
+  "AGE": "18",
+  "GENDER": "MALE",
+  "nickNameBot": "♡︎𝗠𝗜𝗥𝗔 𝗞𝗜𝗠 𝗥𝗢𝗕𝗢𝗧",
+  "authorFB": "https://m.me/NOOBS.DEVELOPER.AYAN",
   "prefix": ".",
-  "ArYanapi": "https://aryan-rest-api.onrender.com",
-  "api": "",
-  "api2": "",
-  "api3": "",
-  "authorName": "ArYan 🤡",
-  "facebook2": "https://www.facebook.com/raj.vai.404",
-  "facebook": "https://www.facebook.com/ArYan.com.404",
-  "email": "adriyanaryan@yahoo.com",
-  "replit": "https://replit.com/@ARYAN-BOT",
-  "github": "https://github.com/ARYAN-BOT-404",
-  "insta": "no",
-  "age": "18+",
-  "TG": "",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
-    "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when youf set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
+    "notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
   },
-  "timeZone": "Asia/Dhaka",
+  "timeZone": "Asia/Ho_Chi_Minh",
   "credentials": {
     "gmailAccount": {
-      "email": "",
-      "clientId": "249889492292-qff3skitvnud3hle736ugm3tt53fh1sg.apps.googleusercontent.com",
-      "clientSecret": "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",
-      "refreshToken": "1//04l_q7zGN41-ECgYIARAAGAQSNwF-L9Ir-t_MXlcP231dJo3boIXhkCZj0wdxFRo6xNCEc36kzQhJ3uJwhmTeAVHizb1XofhvSHw",
+      "email": "ayanbotbeluga@gmail.com",
+      "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
+      "clientSecret": "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",
+      "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
       "apiKey": ""
     },
     "gRecaptcha": {
-      "siteKey": "6LeYA1gpAAAAALcbHRIVGcL69QwgbXIbBZpvlJ3q",
-      "secretKey": "6LeYA1gpAAAAAI13alckf64lV0MfuEQf3EObX4ye"
+      "siteKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5",
+      "secretKey": "6LcEPTMpAAAAAKRhQmTp03g4rkq-U6jXs8E8rDf5"
     }
   },
   "dashBoard": {
@@ -87,21 +60,22 @@
   },
   "serverUptime": {
     "enable": false,
-    "port": 3001,
+    "port": 3000,
     "socket": {
       "enable": true,
       "channelName": "uptime",
-      "verifyToken": ""
-    }
+      "verifyToken": "AJ3mQqe9wrL8sF5NAwJuSteH",
+			"url": ""
+		}
   },
   "autoRestart": {
-    "time": null,
+    "time": 3600000,
     "notes": "you can set time is interval with milisecond or cron time, example: 1000, 10000, 60000, 3600000, 86400000, 0 0 * * *,... docs: https://www.npmjs.com/package/node-cron. If you set time is 0 or false or null, the bot will not auto restart"
   },
   "autoUptime": {
     "enable": true,
-    "timeInterval": 500,
-    "url": "https://uptime.botrandom30.repl.co",
+    "timeInterval": 8640,
+    "url": "${process.env.DevURL}.sisko.replit.dev/",
     "notes": "the value of timeInterval is seconds, url is the url you want to send the request to (automatically detected for hosting glitch or replit)"
   },
   "autoLoadScripts": {
@@ -146,11 +120,11 @@
     "userBanned": false
   },
   "logEvents": {
-    "disableAll": true,
+    "disableAll": false,
     "message": true,
-    "message_reaction": false,
+    "message_reaction": true,
     "message_unsend": true,
-    "message_reply": false,
+    "message_reply": true,
     "event": true,
     "read_receipt": false,
     "typ": false,
@@ -165,15 +139,13 @@
     "selfListen": false,
     "selfListenEvent": true,
     "autoMarkDelivery": false,
-    "autoReconnect": false,
+    "autoReconnect": true,
     "notes": "Document here: https://github.com/ntkhang03/fb-chat-api/blob/master/DOCS.md#apisetoptionsoptions "
   },
   "whiteListModeThread": {
     "enable": false,
-    "whiteListThreadIds": [
-      "7271330272945067"
-    ],
+    "whiteListThreadIds": [],
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
   }
-}
+} 
